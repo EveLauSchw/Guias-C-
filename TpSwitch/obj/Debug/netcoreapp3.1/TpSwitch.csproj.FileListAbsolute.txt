@@ -1,0 +1,14 @@
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.csproj.AssemblyReference.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.AssemblyInfoInputs.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.AssemblyInfo.cs
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\bin\Debug\netcoreapp3.1\TpSwitch.exe
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\bin\Debug\netcoreapp3.1\TpSwitch.deps.json
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\bin\Debug\netcoreapp3.1\TpSwitch.runtimeconfig.json
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\bin\Debug\netcoreapp3.1\TpSwitch.runtimeconfig.dev.json
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\bin\Debug\netcoreapp3.1\TpSwitch.dll
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\bin\Debug\netcoreapp3.1\TpSwitch.pdb
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.dll
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.pdb
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\TpSwitch\obj\Debug\netcoreapp3.1\TpSwitch.genruntimeconfig.cache

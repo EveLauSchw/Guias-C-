@@ -1,0 +1,14 @@
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\bin\Debug\netcoreapp3.1\Guia2.exe
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\bin\Debug\netcoreapp3.1\Guia2.deps.json
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\bin\Debug\netcoreapp3.1\Guia2.runtimeconfig.json
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\bin\Debug\netcoreapp3.1\Guia2.runtimeconfig.dev.json
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\bin\Debug\netcoreapp3.1\Guia2.dll
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\bin\Debug\netcoreapp3.1\Guia2.pdb
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.csproj.AssemblyReference.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.AssemblyInfoInputs.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.AssemblyInfo.cs
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.dll
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.pdb
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\suma\Guia\Guia2\obj\Debug\netcoreapp3.1\Guia2.genruntimeconfig.cache

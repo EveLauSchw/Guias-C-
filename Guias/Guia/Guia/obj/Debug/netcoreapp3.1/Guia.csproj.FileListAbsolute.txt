@@ -1,0 +1,5 @@
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\Guias\Guia\Guia\obj\Debug\netcoreapp3.1\Guia.csproj.AssemblyReference.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\Guias\Guia\Guia\obj\Debug\netcoreapp3.1\Guia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\Guias\Guia\Guia\obj\Debug\netcoreapp3.1\Guia.AssemblyInfoInputs.cache
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\Guias\Guia\Guia\obj\Debug\netcoreapp3.1\Guia.AssemblyInfo.cs
+C:\Users\Eve\Desktop\IFTS Nº18\1er AÑO 2021\2do Cuatrimestre 2021\Estructura de Datos - Santoro (1er año 2 Cuat) - Viernes\C#\Guias\Guia\Guia\obj\Debug\netcoreapp3.1\Guia.csproj.CoreCompileInputs.cache
